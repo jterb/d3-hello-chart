@@ -3,8 +3,8 @@ Sample files from:
 
 Other D3 resources:
 
-* Let’s Make a Map https://bost.ocks.org/mike/map/
-* Scott Murray Tutorials http://alignedleft.com/tutorials/d3
-* Tons of Examples of Different Forms http://bl.ocks.org/mbostock
+* Let’s Make a Map:  https://bost.ocks.org/mike/map/
+* Scott Murray Tutorials:  http://alignedleft.com/tutorials/d3
+* Tons of Examples of Different Forms:  http://bl.ocks.org/mbostock
 
 
